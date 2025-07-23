@@ -1,0 +1,1 @@
+﻿Date: 01/01/2025FileType: TariffPlanType: PremiumOperator: JioDnn: jiodnn.comPrice: $120/month/lineData Allowance: 35 MBAvg Speed: 60 MbpsVideo Streaming Speed: 50 MbpsFUP Redirection URL: www.data-throttle.com

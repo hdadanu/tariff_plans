@@ -1,0 +1,2 @@
+Date: 01/05/2025FileType: TariffPlanType: Basic
+Operator: AT&TIts expected that for operator AT&T, the average speed can be 40mbpsThe data allowed of for each user is 80 MB.The speed of video streaming is 55 Mbps.Unlimited dataThe dnn is internet2 and when limit is reached , user  will be forwarded to datalimitreached.com

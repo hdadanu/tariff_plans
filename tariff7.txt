@@ -1,0 +1,1 @@
+﻿Date: 01/03/2025FileType: TariffPlanType: BasicOperator: JioDnn: jiodnn.comPrice: $90/month/lineData Allowance: 20 MBAvg Speed: 40 MbpsVideo Streaming Speed: 30 MbpsFUP Redirection URL: www.basicjio.com

@@ -1,0 +1,2 @@
+Date: 01/02/2025FileType: TariffPlanType: Premium
+Operator:TMOIts expected that for operator TMO, the average speed can be 40mbpsThe volume of for each user is 40 MB.The video streaming speed is 65 Mbps.The dnn is internet and when limit is reached , user  will be forwarded to fup.com
