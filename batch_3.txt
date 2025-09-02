@@ -1,0 +1,218 @@
+Date: 20/03/2025
+FileType: Tariff
+PlanType: Premium
+Operator: Vodafone
+
+Operator: Vodafone, price: 87 USD per month per line.
+Here’s what you will get with 5 lines: Unlimited talk, text, & high-speed data, 139GB Hotspot data per line per month, Apple Music free for 6 months.
+
+Note: Average speed 34 MBps. Video streaming capped at 25 MBps. After FUP, redirected to www.operator-limit.com.
+
+---
+Date: 19/03/2025
+FileType: Tariff
+PlanType: Family
+Operator: Verizon
+
+Operator: Verizon, price: 128 USD per month per line.
+Here’s what you will get with 2 lines: Free Netflix subscription, Amazon Prime membership, Apple Music free for 6 months.
+
+Note: Average speed 115 MBps. Video streaming capped at 97 MBps. After FUP, redirected to www.limitexceeded.com.
+
+---
+Date: 19/03/2025
+FileType: Tariff
+PlanType: Unlimited
+Operator: Verizon
+
+Operator: Verizon, price: 116 USD per month per line.
+Here’s what you will get with 4 lines: AT&T ActiveArmorSM advanced mobile security, Unlimited talk, text & high-speed data in 19 Latin American countries, 139GB Hotspot data per line per month.
+
+Note: Average speed 56 MBps. Video streaming capped at 39 MBps. After FUP, redirected to www.operator-limit.com.
+
+---
+Date: 12/03/2025
+FileType: Tariff
+PlanType: Basic
+Operator: Verizon
+
+Operator: Verizon, price: 149 USD per month per line.
+Here’s what you will get with 2 lines: Unlimited talk, text, & high-speed data, Disney+ Hotstar included, 139GB Hotspot data per line per month.
+
+Note: Average speed 60 MBps. Video streaming capped at 48 MBps. After FUP, redirected to www.operator-limit.com.
+
+---
+Date: 03/03/2025
+FileType: Tariff
+PlanType: Unlimited
+Operator: Jio
+
+Operator: Jio, price: 95 USD per month per line.
+Here’s what you will get with 4 lines: Amazon Prime membership, Apple Music free for 6 months, AT&T ActiveArmorSM advanced mobile security.
+
+Note: Average speed 76 MBps. Video streaming capped at 61 MBps. After FUP, redirected to www.limitexceeded.com.
+
+---
+Date: 09/03/2025
+FileType: Tariff
+PlanType: Basic
+Operator: AT&T
+
+Operator: AT&T, price: 89 USD per month per line.
+Here’s what you will get with 3 lines: 139GB Hotspot data per line per month, Disney+ Hotstar included, Amazon Prime membership.
+
+Note: Average speed 49 MBps. Video streaming capped at 37 MBps. After FUP, redirected to www.data-capreached.com.
+
+---
+Date: 08/03/2025
+FileType: Tariff
+PlanType: Premium
+Operator: AT&T
+
+Operator: AT&T, price: 123 USD per month per line.
+Here’s what you will get with 3 lines: Amazon Prime membership, Free Netflix subscription, Disney+ Hotstar included.
+
+Note: Average speed 71 MBps. Video streaming capped at 55 MBps. After FUP, redirected to www.data-capreached.com.
+
+---
+Date: 01/03/2025
+FileType: Tariff
+PlanType: Premium
+Operator: AT&T
+
+Operator: AT&T, price: 115 USD per month per line.
+Here’s what you will get with 4 lines: Unlimited talk, text & high-speed data in 19 Latin American countries, Apple Music free for 6 months, 139GB Hotspot data per line per month.
+
+Note: Average speed 114 MBps. Video streaming capped at 100 MBps. After FUP, redirected to www.operator-limit.com.
+
+---
+Date: 12/03/2025
+FileType: Tariff
+PlanType: Plus
+Operator: Jio
+
+Operator: Jio, price: 114 USD per month per line.
+Here’s what you will get with 3 lines: Unlimited talk, text, & high-speed data, AT&T ActiveArmorSM advanced mobile security, 139GB Hotspot data per line per month.
+
+Note: Average speed 118 MBps. Video streaming capped at 106 MBps. After FUP, redirected to www.limitexceeded.com.
+
+---
+Date: 21/03/2025
+FileType: Tariff
+PlanType: Family
+Operator: AT&T
+
+Operator: AT&T, price: 140 USD per month per line.
+Here’s what you will get with 3 lines: 4K UHD streaming available, Apple Music free for 6 months, 139GB Hotspot data per line per month.
+
+Note: Average speed 75 MBps. Video streaming capped at 69 MBps. After FUP, redirected to www.data-capreached.com.
+
+---
+Date: 10/03/2025
+FileType: Tariff
+PlanType: Basic
+Operator: AT&T
+
+Operator: AT&T, price: 144 USD per month per line.
+Here’s what you will get with 1 lines: Amazon Prime membership, 4K UHD streaming available, Unlimited talk, text & high-speed data in 19 Latin American countries.
+
+Note: Average speed 89 MBps. Video streaming capped at 72 MBps. After FUP, redirected to www.operator-limit.com.
+
+---
+Date: 12/03/2025
+FileType: Tariff
+PlanType: Family
+Operator: Verizon
+
+Operator: Verizon, price: 145 USD per month per line.
+Here’s what you will get with 4 lines: Free Netflix subscription, AT&T ActiveArmorSM advanced mobile security, Unlimited talk, text, & high-speed data.
+
+Note: Average speed 40 MBps. Video streaming capped at 31 MBps. After FUP, redirected to www.data-capreached.com.
+
+---
+Date: 09/03/2025
+FileType: Tariff
+PlanType: Basic
+Operator: Vodafone
+
+Operator: Vodafone, price: 131 USD per month per line.
+Here’s what you will get with 1 lines: Disney+ Hotstar included, 139GB Hotspot data per line per month, Apple Music free for 6 months.
+
+Note: Average speed 114 MBps. Video streaming capped at 95 MBps. After FUP, redirected to www.data-capreached.com.
+
+---
+Date: 28/03/2025
+FileType: Tariff
+PlanType: Premium
+Operator: T-Mobile
+
+Operator: T-Mobile, price: 108 USD per month per line.
+Here’s what you will get with 5 lines: Unlimited talk, text, & high-speed data, Free Netflix subscription, Unlimited talk, text & high-speed data in 19 Latin American countries.
+
+Note: Average speed 52 MBps. Video streaming capped at 47 MBps. After FUP, redirected to www.data-capreached.com.
+
+---
+Date: 31/03/2025
+FileType: Tariff
+PlanType: Plus
+Operator: T-Mobile
+
+Operator: T-Mobile, price: 131 USD per month per line.
+Here’s what you will get with 5 lines: Unlimited talk, text & high-speed data in 19 Latin American countries, Free Netflix subscription, 139GB Hotspot data per line per month.
+
+Note: Average speed 46 MBps. Video streaming capped at 30 MBps. After FUP, redirected to www.data-capreached.com.
+
+---
+Date: 21/03/2025
+FileType: Tariff
+PlanType: Premium
+Operator: AT&T
+
+Operator: AT&T, price: 89 USD per month per line.
+Here’s what you will get with 1 lines: 4K UHD streaming available, Unlimited talk, text, & high-speed data, 139GB Hotspot data per line per month.
+
+Note: Average speed 105 MBps. Video streaming capped at 96 MBps. After FUP, redirected to www.operator-limit.com.
+
+---
+Date: 27/03/2025
+FileType: Tariff
+PlanType: Premium
+Operator: T-Mobile
+
+Operator: T-Mobile, price: 135 USD per month per line.
+Here’s what you will get with 1 lines: Free Netflix subscription, Amazon Prime membership, Disney+ Hotstar included.
+
+Note: Average speed 100 MBps. Video streaming capped at 87 MBps. After FUP, redirected to www.limitexceeded.com.
+
+---
+Date: 06/03/2025
+FileType: Tariff
+PlanType: Family
+Operator: Jio
+
+Operator: Jio, price: 90 USD per month per line.
+Here’s what you will get with 2 lines: 139GB Hotspot data per line per month, Unlimited talk, text & high-speed data in 19 Latin American countries, Unlimited talk, text, & high-speed data.
+
+Note: Average speed 38 MBps. Video streaming capped at 32 MBps. After FUP, redirected to www.limitexceeded.com.
+
+---
+Date: 26/03/2025
+FileType: Tariff
+PlanType: Plus
+Operator: Jio
+
+Operator: Jio, price: 146 USD per month per line.
+Here’s what you will get with 5 lines: Mobile hotspot included, Apple Music free for 6 months, Unlimited talk, text, & high-speed data.
+
+Note: Average speed 88 MBps. Video streaming capped at 76 MBps. After FUP, redirected to www.limitexceeded.com.
+
+---
+Date: 29/03/2025
+FileType: Tariff
+PlanType: Premium
+Operator: Jio
+
+Operator: Jio, price: 98 USD per month per line.
+Here’s what you will get with 4 lines: Unlimited talk, text & high-speed data in 19 Latin American countries, Amazon Prime membership, Mobile hotspot included.
+
+Note: Average speed 114 MBps. Video streaming capped at 100 MBps. After FUP, redirected to www.limitexceeded.com.
