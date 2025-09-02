@@ -1,0 +1,320 @@
+Date: 01/241/2025
+FileType: Tariff
+PlanType: Premium
+Operator: Verizon
+
+Operator: Verizon, price: 108 USD per month per line 
+Here is what you will get: when you get 2 lines 
+Here’s what you’ll get: mobile_phone Unlimited talk, text, & high-speed data(with an allowance of 20 MB(Where unit is MB)). 
+activearmor Advanced mobile security. Free app with Public Wi-Fi Protection, Identity Monitoring, and more. 
+mobile_hotspot 100GB Hotspot data per line per month 
+mobile_phone Unlimited talk, text & high-speed data in 10 Latin American countries No extra cost. 
+4K UHD streaming available verified Signature Program members save up to $0 /mo. per line through your work or organization. 
+**Note. Dnn provided will be internet. The average speed is 50 MBps. 
+However, for video streaming, the speed shall be allocated up to 40 MBps. 
+Upon exhausting the FUP, the user shall be redirected to www.limitexceeded.com.
+
+Date: 01/242/2025
+FileType: Tariff
+PlanType: Basic
+Operator: AT&T
+
+Operator: AT&T, price: 109 USD per month per line 
+Here is what you will get: when you get 3 lines 
+Here’s what you’ll get: mobile_phone Unlimited talk, text, & high-speed data(with an allowance of 22 MB(Where unit is MB)). 
+activearmor Advanced mobile security. Free app with Public Wi-Fi Protection, Identity Monitoring, and more. 
+mobile_hotspot 101GB Hotspot data per line per month 
+mobile_phone Unlimited talk, text & high-speed data in 11 Latin American countries No extra cost. 
+4K UHD streaming available verified Signature Program members save up to $1 /mo. per line through your work or organization. 
+**Note. Dnn provided will be internet. The average speed is 51 MBps. 
+However, for video streaming, the speed shall be allocated up to 41 MBps. 
+Upon exhausting the FUP, the user shall be redirected to www.limitexceeded.com.
+
+Date: 01/243/2025
+FileType: Tariff
+PlanType: Premium
+Operator: T-Mobile
+
+Operator: T-Mobile, price: 110 USD per month per line 
+Here is what you will get: when you get 4 lines 
+Here’s what you’ll get: mobile_phone Unlimited talk, text, & high-speed data(with an allowance of 24 MB(Where unit is MB)). 
+activearmor Advanced mobile security. Free app with Public Wi-Fi Protection, Identity Monitoring, and more. 
+mobile_hotspot 102GB Hotspot data per line per month 
+mobile_phone Unlimited talk, text & high-speed data in 12 Latin American countries No extra cost. 
+4K UHD streaming available verified Signature Program members save up to $2 /mo. per line through your work or organization. 
+**Note. Dnn provided will be internet. The average speed is 52 MBps. 
+However, for video streaming, the speed shall be allocated up to 42 MBps. 
+Upon exhausting the FUP, the user shall be redirected to www.limitexceeded.com.
+
+Date: 01/244/2025
+FileType: Tariff
+PlanType: Basic
+Operator: Verizon
+
+Operator: Verizon, price: 111 USD per month per line 
+Here is what you will get: when you get 5 lines 
+Here’s what you’ll get: mobile_phone Unlimited talk, text, & high-speed data(with an allowance of 26 MB(Where unit is MB)). 
+activearmor Advanced mobile security. Free app with Public Wi-Fi Protection, Identity Monitoring, and more. 
+mobile_hotspot 103GB Hotspot data per line per month 
+mobile_phone Unlimited talk, text & high-speed data in 13 Latin American countries No extra cost. 
+4K UHD streaming available verified Signature Program members save up to $3 /mo. per line through your work or organization. 
+**Note. Dnn provided will be internet. The average speed is 53 MBps. 
+However, for video streaming, the speed shall be allocated up to 43 MBps. 
+Upon exhausting the FUP, the user shall be redirected to www.limitexceeded.com.
+
+Date: 01/245/2025
+FileType: Tariff
+PlanType: Premium
+Operator: AT&T
+
+Operator: AT&T, price: 112 USD per month per line 
+Here is what you will get: when you get 6 lines 
+Here’s what you’ll get: mobile_phone Unlimited talk, text, & high-speed data(with an allowance of 28 MB(Where unit is MB)). 
+activearmor Advanced mobile security. Free app with Public Wi-Fi Protection, Identity Monitoring, and more. 
+mobile_hotspot 104GB Hotspot data per line per month 
+mobile_phone Unlimited talk, text & high-speed data in 14 Latin American countries No extra cost. 
+4K UHD streaming available verified Signature Program members save up to $4 /mo. per line through your work or organization. 
+**Note. Dnn provided will be internet. The average speed is 54 MBps. 
+However, for video streaming, the speed shall be allocated up to 44 MBps. 
+Upon exhausting the FUP, the user shall be redirected to www.limitexceeded.com.
+
+Date: 01/246/2025
+FileType: Tariff
+PlanType: Basic
+Operator: T-Mobile
+
+Operator: T-Mobile, price: 113 USD per month per line 
+Here is what you will get: when you get 2 lines 
+Here’s what you’ll get: mobile_phone Unlimited talk, text, & high-speed data(with an allowance of 30 MB(Where unit is MB)). 
+activearmor Advanced mobile security. Free app with Public Wi-Fi Protection, Identity Monitoring, and more. 
+mobile_hotspot 105GB Hotspot data per line per month 
+mobile_phone Unlimited talk, text & high-speed data in 15 Latin American countries No extra cost. 
+4K UHD streaming available verified Signature Program members save up to $5 /mo. per line through your work or organization. 
+**Note. Dnn provided will be internet. The average speed is 55 MBps. 
+However, for video streaming, the speed shall be allocated up to 45 MBps. 
+Upon exhausting the FUP, the user shall be redirected to www.limitexceeded.com.
+
+Date: 01/247/2025
+FileType: Tariff
+PlanType: Premium
+Operator: Verizon
+
+Operator: Verizon, price: 114 USD per month per line 
+Here is what you will get: when you get 3 lines 
+Here’s what you’ll get: mobile_phone Unlimited talk, text, & high-speed data(with an allowance of 32 MB(Where unit is MB)). 
+activearmor Advanced mobile security. Free app with Public Wi-Fi Protection, Identity Monitoring, and more. 
+mobile_hotspot 106GB Hotspot data per line per month 
+mobile_phone Unlimited talk, text & high-speed data in 16 Latin American countries No extra cost. 
+4K UHD streaming available verified Signature Program members save up to $6 /mo. per line through your work or organization. 
+**Note. Dnn provided will be internet. The average speed is 56 MBps. 
+However, for video streaming, the speed shall be allocated up to 46 MBps. 
+Upon exhausting the FUP, the user shall be redirected to www.limitexceeded.com.
+
+Date: 01/248/2025
+FileType: Tariff
+PlanType: Basic
+Operator: AT&T
+
+Operator: AT&T, price: 115 USD per month per line 
+Here is what you will get: when you get 4 lines 
+Here’s what you’ll get: mobile_phone Unlimited talk, text, & high-speed data(with an allowance of 34 MB(Where unit is MB)). 
+activearmor Advanced mobile security. Free app with Public Wi-Fi Protection, Identity Monitoring, and more. 
+mobile_hotspot 107GB Hotspot data per line per month 
+mobile_phone Unlimited talk, text & high-speed data in 17 Latin American countries No extra cost. 
+4K UHD streaming available verified Signature Program members save up to $7 /mo. per line through your work or organization. 
+**Note. Dnn provided will be internet. The average speed is 57 MBps. 
+However, for video streaming, the speed shall be allocated up to 47 MBps. 
+Upon exhausting the FUP, the user shall be redirected to www.limitexceeded.com.
+
+Date: 01/249/2025
+FileType: Tariff
+PlanType: Premium
+Operator: T-Mobile
+
+Operator: T-Mobile, price: 116 USD per month per line 
+Here is what you will get: when you get 5 lines 
+Here’s what you’ll get: mobile_phone Unlimited talk, text, & high-speed data(with an allowance of 36 MB(Where unit is MB)). 
+activearmor Advanced mobile security. Free app with Public Wi-Fi Protection, Identity Monitoring, and more. 
+mobile_hotspot 108GB Hotspot data per line per month 
+mobile_phone Unlimited talk, text & high-speed data in 18 Latin American countries No extra cost. 
+4K UHD streaming available verified Signature Program members save up to $8 /mo. per line through your work or organization. 
+**Note. Dnn provided will be internet. The average speed is 58 MBps. 
+However, for video streaming, the speed shall be allocated up to 48 MBps. 
+Upon exhausting the FUP, the user shall be redirected to www.limitexceeded.com.
+
+Date: 01/250/2025
+FileType: Tariff
+PlanType: Basic
+Operator: Verizon
+
+Operator: Verizon, price: 117 USD per month per line 
+Here is what you will get: when you get 6 lines 
+Here’s what you’ll get: mobile_phone Unlimited talk, text, & high-speed data(with an allowance of 38 MB(Where unit is MB)). 
+activearmor Advanced mobile security. Free app with Public Wi-Fi Protection, Identity Monitoring, and more. 
+mobile_hotspot 109GB Hotspot data per line per month 
+mobile_phone Unlimited talk, text & high-speed data in 19 Latin American countries No extra cost. 
+4K UHD streaming available verified Signature Program members save up to $9 /mo. per line through your work or organization. 
+**Note. Dnn provided will be internet. The average speed is 59 MBps. 
+However, for video streaming, the speed shall be allocated up to 49 MBps. 
+Upon exhausting the FUP, the user shall be redirected to www.limitexceeded.com.
+
+Date: 01/251/2025
+FileType: Tariff
+PlanType: Premium
+Operator: AT&T
+
+Operator: AT&T, price: 118 USD per month per line 
+Here is what you will get: when you get 2 lines 
+Here’s what you’ll get: mobile_phone Unlimited talk, text, & high-speed data(with an allowance of 40 MB(Where unit is MB)). 
+activearmor Advanced mobile security. Free app with Public Wi-Fi Protection, Identity Monitoring, and more. 
+mobile_hotspot 110GB Hotspot data per line per month 
+mobile_phone Unlimited talk, text & high-speed data in 20 Latin American countries No extra cost. 
+4K UHD streaming available verified Signature Program members save up to $10 /mo. per line through your work or organization. 
+**Note. Dnn provided will be internet. The average speed is 60 MBps. 
+However, for video streaming, the speed shall be allocated up to 50 MBps. 
+Upon exhausting the FUP, the user shall be redirected to www.limitexceeded.com.
+
+Date: 01/252/2025
+FileType: Tariff
+PlanType: Basic
+Operator: T-Mobile
+
+Operator: T-Mobile, price: 119 USD per month per line 
+Here is what you will get: when you get 3 lines 
+Here’s what you’ll get: mobile_phone Unlimited talk, text, & high-speed data(with an allowance of 42 MB(Where unit is MB)). 
+activearmor Advanced mobile security. Free app with Public Wi-Fi Protection, Identity Monitoring, and more. 
+mobile_hotspot 111GB Hotspot data per line per month 
+mobile_phone Unlimited talk, text & high-speed data in 21 Latin American countries No extra cost. 
+4K UHD streaming available verified Signature Program members save up to $11 /mo. per line through your work or organization. 
+**Note. Dnn provided will be internet. The average speed is 61 MBps. 
+However, for video streaming, the speed shall be allocated up to 51 MBps. 
+Upon exhausting the FUP, the user shall be redirected to www.limitexceeded.com.
+
+Date: 01/253/2025
+FileType: Tariff
+PlanType: Premium
+Operator: Verizon
+
+Operator: Verizon, price: 120 USD per month per line 
+Here is what you will get: when you get 4 lines 
+Here’s what you’ll get: mobile_phone Unlimited talk, text, & high-speed data(with an allowance of 44 MB(Where unit is MB)). 
+activearmor Advanced mobile security. Free app with Public Wi-Fi Protection, Identity Monitoring, and more. 
+mobile_hotspot 112GB Hotspot data per line per month 
+mobile_phone Unlimited talk, text & high-speed data in 22 Latin American countries No extra cost. 
+4K UHD streaming available verified Signature Program members save up to $12 /mo. per line through your work or organization. 
+**Note. Dnn provided will be internet. The average speed is 62 MBps. 
+However, for video streaming, the speed shall be allocated up to 52 MBps. 
+Upon exhausting the FUP, the user shall be redirected to www.limitexceeded.com.
+
+Date: 01/254/2025
+FileType: Tariff
+PlanType: Basic
+Operator: AT&T
+
+Operator: AT&T, price: 121 USD per month per line 
+Here is what you will get: when you get 5 lines 
+Here’s what you’ll get: mobile_phone Unlimited talk, text, & high-speed data(with an allowance of 46 MB(Where unit is MB)). 
+activearmor Advanced mobile security. Free app with Public Wi-Fi Protection, Identity Monitoring, and more. 
+mobile_hotspot 113GB Hotspot data per line per month 
+mobile_phone Unlimited talk, text & high-speed data in 23 Latin American countries No extra cost. 
+4K UHD streaming available verified Signature Program members save up to $13 /mo. per line through your work or organization. 
+**Note. Dnn provided will be internet. The average speed is 63 MBps. 
+However, for video streaming, the speed shall be allocated up to 53 MBps. 
+Upon exhausting the FUP, the user shall be redirected to www.limitexceeded.com.
+
+Date: 01/255/2025
+FileType: Tariff
+PlanType: Premium
+Operator: T-Mobile
+
+Operator: T-Mobile, price: 122 USD per month per line 
+Here is what you will get: when you get 6 lines 
+Here’s what you’ll get: mobile_phone Unlimited talk, text, & high-speed data(with an allowance of 48 MB(Where unit is MB)). 
+activearmor Advanced mobile security. Free app with Public Wi-Fi Protection, Identity Monitoring, and more. 
+mobile_hotspot 114GB Hotspot data per line per month 
+mobile_phone Unlimited talk, text & high-speed data in 24 Latin American countries No extra cost. 
+4K UHD streaming available verified Signature Program members save up to $14 /mo. per line through your work or organization. 
+**Note. Dnn provided will be internet. The average speed is 64 MBps. 
+However, for video streaming, the speed shall be allocated up to 54 MBps. 
+Upon exhausting the FUP, the user shall be redirected to www.limitexceeded.com.
+
+Date: 01/256/2025
+FileType: Tariff
+PlanType: Basic
+Operator: Verizon
+
+Operator: Verizon, price: 123 USD per month per line 
+Here is what you will get: when you get 2 lines 
+Here’s what you’ll get: mobile_phone Unlimited talk, text, & high-speed data(with an allowance of 50 MB(Where unit is MB)). 
+activearmor Advanced mobile security. Free app with Public Wi-Fi Protection, Identity Monitoring, and more. 
+mobile_hotspot 115GB Hotspot data per line per month 
+mobile_phone Unlimited talk, text & high-speed data in 25 Latin American countries No extra cost. 
+4K UHD streaming available verified Signature Program members save up to $0 /mo. per line through your work or organization. 
+**Note. Dnn provided will be internet. The average speed is 65 MBps. 
+However, for video streaming, the speed shall be allocated up to 55 MBps. 
+Upon exhausting the FUP, the user shall be redirected to www.limitexceeded.com.
+
+Date: 01/257/2025
+FileType: Tariff
+PlanType: Premium
+Operator: AT&T
+
+Operator: AT&T, price: 124 USD per month per line 
+Here is what you will get: when you get 3 lines 
+Here’s what you’ll get: mobile_phone Unlimited talk, text, & high-speed data(with an allowance of 52 MB(Where unit is MB)). 
+activearmor Advanced mobile security. Free app with Public Wi-Fi Protection, Identity Monitoring, and more. 
+mobile_hotspot 116GB Hotspot data per line per month 
+mobile_phone Unlimited talk, text & high-speed data in 26 Latin American countries No extra cost. 
+4K UHD streaming available verified Signature Program members save up to $1 /mo. per line through your work or organization. 
+**Note. Dnn provided will be internet. The average speed is 66 MBps. 
+However, for video streaming, the speed shall be allocated up to 56 MBps. 
+Upon exhausting the FUP, the user shall be redirected to www.limitexceeded.com.
+
+Date: 01/258/2025
+FileType: Tariff
+PlanType: Basic
+Operator: T-Mobile
+
+Operator: T-Mobile, price: 125 USD per month per line 
+Here is what you will get: when you get 4 lines 
+Here’s what you’ll get: mobile_phone Unlimited talk, text, & high-speed data(with an allowance of 54 MB(Where unit is MB)). 
+activearmor Advanced mobile security. Free app with Public Wi-Fi Protection, Identity Monitoring, and more. 
+mobile_hotspot 117GB Hotspot data per line per month 
+mobile_phone Unlimited talk, text & high-speed data in 27 Latin American countries No extra cost. 
+4K UHD streaming available verified Signature Program members save up to $2 /mo. per line through your work or organization. 
+**Note. Dnn provided will be internet. The average speed is 67 MBps. 
+However, for video streaming, the speed shall be allocated up to 57 MBps. 
+Upon exhausting the FUP, the user shall be redirected to www.limitexceeded.com.
+
+Date: 01/259/2025
+FileType: Tariff
+PlanType: Premium
+Operator: Verizon
+
+Operator: Verizon, price: 126 USD per month per line 
+Here is what you will get: when you get 5 lines 
+Here’s what you’ll get: mobile_phone Unlimited talk, text, & high-speed data(with an allowance of 56 MB(Where unit is MB)). 
+activearmor Advanced mobile security. Free app with Public Wi-Fi Protection, Identity Monitoring, and more. 
+mobile_hotspot 118GB Hotspot data per line per month 
+mobile_phone Unlimited talk, text & high-speed data in 28 Latin American countries No extra cost. 
+4K UHD streaming available verified Signature Program members save up to $3 /mo. per line through your work or organization. 
+**Note. Dnn provided will be internet. The average speed is 68 MBps. 
+However, for video streaming, the speed shall be allocated up to 58 MBps. 
+Upon exhausting the FUP, the user shall be redirected to www.limitexceeded.com.
+
+Date: 01/260/2025
+FileType: Tariff
+PlanType: Basic
+Operator: AT&T
+
+Operator: AT&T, price: 127 USD per month per line 
+Here is what you will get: when you get 6 lines 
+Here’s what you’ll get: mobile_phone Unlimited talk, text, & high-speed data(with an allowance of 58 MB(Where unit is MB)). 
+activearmor Advanced mobile security. Free app with Public Wi-Fi Protection, Identity Monitoring, and more. 
+mobile_hotspot 119GB Hotspot data per line per month 
+mobile_phone Unlimited talk, text & high-speed data in 29 Latin American countries No extra cost. 
+4K UHD streaming available verified Signature Program members save up to $4 /mo. per line through your work or organization. 
+**Note. Dnn provided will be internet. The average speed is 69 MBps. 
+However, for video streaming, the speed shall be allocated up to 59 MBps. 
+Upon exhausting the FUP, the user shall be redirected to www.limitexceeded.com.
+
