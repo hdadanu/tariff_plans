@@ -1,0 +1,9 @@
+Date: 01/03/2025
+FileType: Tariff
+PlanType: Basic
+Operator: Vodafone
+
+Operator: Vodafone, price: 124 USD per month per line.
+Here’s what you will get with 5 lines: streaming 2K streaming, roaming 10 Asian countries, mobile_hotspot 143GB hotspot per line, entertainment Free Netflix subscription.
+
+Note: Average speed 56 MBps. Video streaming capped at 39 MBps. After FUP, redirected to www.vodafone-limit.com.
